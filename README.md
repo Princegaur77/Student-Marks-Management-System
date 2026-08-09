@@ -1,6 +1,7 @@
 # Student-Record-Management-System
 
 Student Record Management System
+<br>
 📌 Project Overview
 
 The Student Record Management System is a beginner-friendly Python project designed to manage student names and marks efficiently. The project demonstrates how Python dictionaries can be combined with JSON file handling to create a simple system for storing, updating, searching, and displaying student records.
