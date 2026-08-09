@@ -14,6 +14,7 @@ The main goal of this project is to practice fundamental Python concepts while b
 Users can add a new student by entering:
 
 Student name
+<br>
 Student marks
 
 The new student record is automatically saved to the JSON file.
@@ -31,6 +32,7 @@ Users can search for a particular student by entering their name.
 If the student exists, the program displays:
 
 Student name
+<br>
 Student marks
 
 If the student does not exist, the program displays an appropriate message.
@@ -40,19 +42,20 @@ If the student does not exist, the program displays an appropriate message.
 The program can display all available student records in a simple format containing:
 
 Student name
+<br>
 Marks
 
 <br>
 
 🛠️ Technologies Used
 <br>
-Python
-Dictionary
-JSON
-File Handling
-Conditional Statements
-Loops
-Exception Handling
+Python,
+Dictionary,
+JSON,
+File Handling,
+Conditional Statements,
+Loops,
+Exception Handling,
 User Input
 
 <br>
