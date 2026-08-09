@@ -41,6 +41,7 @@ The program can display all available student records in a simple format contain
 
 Student name
 Marks
+<br>
 🛠️ Technologies Used
 Python
 Dictionary
@@ -50,8 +51,8 @@ Conditional Statements
 Loops
 Exception Handling
 User Input
+<br>
 📂 Data Storage
-
+<br>
 Student records are stored in a file named:
-
 students.json
