@@ -18,13 +18,13 @@ Student name
 Student marks
 
 The new student record is automatically saved to the JSON file.
-
+<br>
 2. Update Student Marks
 
 Users can search for an existing student by name and update their marks.
 
 The updated marks are also permanently saved in the JSON file.
-
+<br>
 3. Search Student
 
 Users can search for a particular student by entering their name.
@@ -36,17 +36,14 @@ Student name
 Student marks
 
 If the student does not exist, the program displays an appropriate message.
-
+<br>
 4. Display All Students
-
 The program can display all available student records in a simple format containing:
 
 Student name
 <br>
 Marks
-
 <br>
-
 🛠️ Technologies Used
 <br>
 Python,
@@ -57,10 +54,9 @@ Conditional Statements,
 Loops,
 Exception Handling,
 User Input
-
 <br>
 📂 Data Storage
-<br>
+
 Student records are stored in a file named:
 <br>
 students.json
