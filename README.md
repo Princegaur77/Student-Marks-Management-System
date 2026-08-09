@@ -47,14 +47,15 @@ Marks
 
 🛠️ Technologies Used
 <br>
-Python
-Dictionary
-JSON
-File Handling
-Conditional Statements
-Loops
-Exception Handling
+Python,
+Dictionary,
+JSON,
+File Handling,
+Conditional Statements,
+Loops,
+Exception Handling,
 User Input
+
 <br>
 📂 Data Storage
 
