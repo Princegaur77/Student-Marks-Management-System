@@ -20,13 +20,12 @@ Student marks
 The new student record is automatically saved to the JSON file.
 <br>
 2. Update Student Marks
-
+<br>
 Users can search for an existing student by name and update their marks.
-
 The updated marks are also permanently saved in the JSON file.
 <br>
 3. Search Student
-
+<br>
 Users can search for a particular student by entering their name.
 
 If the student exists, the program displays:
@@ -38,6 +37,7 @@ Student marks
 If the student does not exist, the program displays an appropriate message.
 <br>
 4. Display All Students
+<br>
 The program can display all available student records in a simple format containing:
 
 Student name
